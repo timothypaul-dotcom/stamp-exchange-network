@@ -9,6 +9,7 @@ Add your entry in the following format:
 ---
 
 ## Available for Trade (AFT)
+- [AFT] Australia 2024 Christmas Kookaburra - 65c MNH (Santa Hat, Seated on Branch) - [View Image](https://github.com/timothypaul-dotcom/stamp-exchange-network/blob/main/assets/christmas-kookaburra-2024.png) - @timothypaul
 - [AFT] Great Britain 1840 Penny Black - VF Used (4 margins) - @yourusername (Sample Entry)
 
 ## In Search Of (ISO)
